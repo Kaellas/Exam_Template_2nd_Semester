@@ -2,7 +2,7 @@
 
 Made by **Paweł Gach** with contributions from others
 
-1st semester Business Intelligence at AU BSS
+2nd semester Business Intelligence at AU BSS
 
 Version 0.2
 
