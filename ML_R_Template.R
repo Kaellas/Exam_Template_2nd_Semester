@@ -961,7 +961,7 @@ performance(pred, measure = "auc")@y.values[[1]]
 # SVM FEATURE IMPORTANCE
 # ──────────────────────────────────────────────────────────────────────────────
 
-# library(caret) appraoch required to work with other libraries
+# library(caret) approach required to work with other libraries
 set.seed(5628)  
 caret_sv <- train(
   Species ~ ., 
